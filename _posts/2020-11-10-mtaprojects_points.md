@@ -1,0 +1,15 @@
+---
+title: MTA.projects_points
+created: '2020-11-10T16:56:23.255029'
+modified: '2020-11-10T16:56:23.255039'
+state: active
+type: dataset
+tags: []
+groups:
+  - Local Government
+csv_url: 'https://data.sfgov.org/api/views/usjh-7855/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.sfgov.org/api/views/usjh-7855/rows.json?accessType=DOWNLOAD'
+layout: post
+
+---
+| A. METHODOLOGY | Data is collected from project managers and SFMTA.com project page editors through the Interactive Project Map Collector Tool.| B. UPDATE FREQUENCY | The data is updated on an as needed basis. Project geographies should be updated by project managers and project pge editors whenever project extents change.| C. OTHER CRITICAL INFO | Please note there is a 250ft buffer for projects to more accurately represent the supervisor districts and neighborhoods that could potentially be affected by a project.| D. ATTRIBUTES |OBJECTID: Auto-populated field generated when a new attribute is added to the feature class;PROJECTNODE: The project node ID is the unique page identifier behind each public-facing url for pages on SFMTA.com;PROJECTNAME: Auto-populated field that grabs the appropriate project name based on the PROJECTNODE entered with the map attribute; CIP ID (if applicable): The CIP ID assigned to projects. If the field says NEW the project has not yet been assigned a CIP ID, please reach out to Capital Finance staff; CIP Title: The CIP Title assigned to projects. If the field says NEW the project has not yet been assigned a CIP Title, please reach out to Capital Finance staff; PROJECTPAGE: Auto-populated field that grabs the appropriate page url based on the PROJECTNODE entered with the map attribute;Project Teaser: Auto-populated field that grabs Project Teaser info from SFMTA.com project page;Project Phase: Auto-populated field that grabs Project Phase info from SFMTA.com project page; Project Type: Auto-populated field that grabs Project Type/Mode info from SFMTA.com project page; WEBPAGEPUBLISHED: Auto-populated field that denotes whether the map attribute has a published webpage; Supervisor Name: Auto-populated field with the name of the district supervisor(s) based on project extent; Supervisor District: Auto-populated field with the number of the supervisorial district(s) based on project extent;Neighborhood: Auto-populated field with the name of the neighborhood based on project extent;Project Page Map Option: Auto-populated field showing which map tab option on SFMTA.com is selected by project page editors; GEOEVENT_LASTUPDATE: ; CREATED_DATE: Auto-populated field with creation time stamp;CREATED_USER: Auto-populated field with the GIS login assigned to various workgroups;LAST_EDITED_DATE: Auto-populated field with edit time stamp;LAST_EDITED_USER: Auto-populated field with the GIS login assigned to various workgroups;SHAPE: Auto-populated field based on how the project feature is drawn; Partner Agencies: Auto-populated field that grabs Partner Agency info from SFMTA.com project page;SHAPE.LEN: ;
