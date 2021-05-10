@@ -1,19 +1,18 @@
 ---
-title: SF Development Pipeline 2015 Q3
-created: '2020-11-10T16:56:20.865281'
-modified: '2020-11-10T16:56:20.865292'
+title: SF Development Pipeline 2015 Q2
+created: '2020-11-10T16:57:02.635863'
+modified: '2020-11-10T16:57:02.635874'
 state: active
 type: dataset
 tags:
   - Commercial
-  - Construction
   - Development
-  - Planning
+  - Housing
   - Residential
 groups:
   - Local Government
-csv_url: 'https://data.sfgov.org/api/views/apz9-dh7k/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.sfgov.org/api/views/apz9-dh7k/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.sfgov.org/api/views/w3e8-bxrm/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.sfgov.org/api/views/w3e8-bxrm/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
