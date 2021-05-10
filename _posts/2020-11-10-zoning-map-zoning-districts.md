@@ -1,18 +1,15 @@
 ---
 title: Zoning Map - Zoning Districts
-created: '2020-11-10T16:56:07.288065'
-modified: '2020-12-04T19:32:12.387992'
+created: '2020-11-10T16:56:18.769427'
+modified: '2020-12-04T19:33:05.966462'
 state: active
 type: dataset
-tags:
-  - Development
-  - Planning
-  - Zoning
+tags: []
 groups:
   - Local Government
-csv_url: 'https://data.sfgov.org/api/views/3i4a-hu95/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.sfgov.org/api/views/3i4a-hu95/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.sfgov.org/api/views/yamn-gsa8/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.sfgov.org/api/views/yamn-gsa8/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-The Zoning Districts are a component of the Zoning Map which in turn is a key component of the San Francisco Planning Code. More information can be found here: https://sfplanning.org/zoning
+Zoning Districts City and County of San Francisco Planning Department. The Zoning Districts are the main component of the Zoning Map. The Zoning Map comprises: - Zoning Districts - Height and Bulk Districts - Special Use Districts - Preservation Districts - Coastal Zone Area - Special Sign Districts The official Zoning Map can be found in the San Francisco Planning Code: http://library.municode.com/index.aspx?clientId=14145&stateId=5&stateName=California (click on the links under ZONING MAPS on the left navigation column). Summaries of the Zoning District codes can be found here: http://www.sf-planning.org/index.aspx?page=1580 Section 105 of the Planning Code states: "The designations, locations and boundaries of the districts established by this Code shall be shown upon the "Zoning Map of the City and County of San Francisco," which shall consist of a series of numbered sectional maps. Wherever any uncertainty exists as to the boundary of any district as shown on said sectional maps, the following rules shall apply: (a) Where boundary lines are indicated as following streets and alleys within the right-of-way, they shall be construed as following the centerlines of such streets and alleys; (b) Where boundary lines are indicated as approximately following lot lines, such lot lines shall be construed to be such boundaries; (c) Where a boundary line divides a lot or crosses unsubdivided property; the location of such boundary shall be as indicated upon the Zoning Map using the scale appearing on such map; (d) Where further uncertainty exists, the City Planning Commission upon written application, or on its own motion, shall by resolution determine the location of a disputed boundary giving due consideration to the apparent indicated location thereof and the scale of the Zoning Map and the express purposes of this Code; (e) Wherever any property is not under these rules specifically included in any use district shown on the Zoning Map, such property is hereby declared to be in an RH-1(D) District, except that all property owned on the effective date of this amendment by the United States of America, State of California, City and County of San Francisco, or other governmental agency and within the City and County of San Francisco but not within the area covered by Sectional Maps Nos. 1 through 13 of the Zoning Map is hereby declared to be in a P (Public Use) District unless reclassified in accordance with the provisions of this Code; (f) Wherever any property is not under these rules specifically included in any height and bulk district shown on the Zoning Map, such property is hereby declared to be in a 40-X height and bulk district, except that all property owned on the effective date of this amendment by the United States of America, State of California, City and County of San Francisco, or other governmental agency and within the City and County of San Francisco but not within the area covered by Sectional Maps Nos. 1H through 13H of the Zoning Map is hereby declared to be in an OS (Open Space) District unless reclassified in accordance with the provisions of this Code, with the exception of Yerba Buena Island and Treasure Island which are hereby declared to be in a 40-X height and bulk district."Updated quarterly.
