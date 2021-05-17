@@ -1,23 +1,25 @@
 ---
 title: >-
-  Campaign Finance - Summary of Third Party Disclosure Forms Regarding San
-  Francisco Candidates - November 8, 2011 Election
-created: '2020-11-10T16:56:15.115915'
-modified: '2020-11-10T16:56:15.115925'
+  Campaign Finance - Summary Of Third Party Disclosure Forms Regarding San
+  Francisco Candidates - November 4 2014
+created: '2020-11-10T16:56:37.839257'
+modified: '2020-11-10T16:56:37.839264'
 state: active
 type: dataset
 tags:
-  - '2011'
+  - '2014'
   - Campaign
+  - Candidates
   - Disclosure
   - Election
+  - Ethics
   - Finance
-  - Mayor
+  - November
   - Third Party
 groups:
   - Local Government
-csv_url: 'https://data.sfgov.org/api/views/6xiy-xib3/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.sfgov.org/api/views/6xiy-xib3/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.sfgov.org/api/views/htai-xw5t/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.sfgov.org/api/views/htai-xw5t/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
