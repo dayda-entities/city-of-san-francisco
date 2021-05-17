@@ -1,7 +1,7 @@
 ---
-title: SF Development Pipeline 2016 Q3
-created: '2020-11-10T16:56:43.303208'
-modified: '2020-11-10T16:56:43.303262'
+title: SF Development Pipeline 2016 Q2
+created: '2020-11-10T16:56:33.335833'
+modified: '2020-11-10T16:56:33.335844'
 state: active
 type: dataset
 tags:
@@ -12,8 +12,8 @@ tags:
   - Residential
 groups:
   - Local Government
-csv_url: 'https://data.sfgov.org/api/views/k7mk-w2pq/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.sfgov.org/api/views/k7mk-w2pq/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.sfgov.org/api/views/g5sr-9nhs/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.sfgov.org/api/views/g5sr-9nhs/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
