@@ -1,24 +1,17 @@
 ---
 title: Historic Resources
-created: '2020-11-10T16:56:07.801955'
-modified: '2020-12-04T19:32:15.198412'
+created: '2020-11-10T16:56:41.293020'
+modified: '2020-12-04T19:34:18.749504'
 state: active
 type: dataset
-tags:
-  - Ceqa
-  - Historic
-  - Planning
-  - Preservation
+tags: []
 groups:
   - Local Government
-csv_url: 'https://data.sfgov.org/api/views/3tsw-4idn/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.sfgov.org/api/views/3tsw-4idn/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.sfgov.org/api/views/njrt-gtwr/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.sfgov.org/api/views/njrt-gtwr/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-The ceqacode field contains an A, B or C:
 A - historic resource present
 B - unknown
 C - historic resource not present
-
-More information: https://sfplanning.org/preservation
