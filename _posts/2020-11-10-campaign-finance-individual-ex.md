@@ -1,29 +1,21 @@
 ---
-title: >-
-  Campaign Finance - Individual Expenditure Ceilings  IECs  - November 4, 2014
-  Election
-created: '2020-11-10T16:57:04.258772'
-modified: '2020-11-10T16:57:04.258779'
+title: Campaign Finance - Individual Expenditure Ceilings (IEC)
+created: '2020-11-10T16:56:18.170545'
+modified: '2020-12-04T19:33:02.263371'
 state: active
 type: dataset
 tags:
-  - '2014'
-  - Campaign
+  - Campaign Finance
   - Candidate
-  - Ceilings
-  - Election
-  - Expenditure
-  - Finance
-  - Financing
+  - Dashboards
   - Iec
-  - Individual
-  - November
-  - Public
+  - Individual Expenditure Ceilings
+  - Public Financing
 groups:
   - Local Government
-csv_url: 'https://data.sfgov.org/api/views/wv7d-caby/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.sfgov.org/api/views/wv7d-caby/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.sfgov.org/api/views/9gib-7p8x/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.sfgov.org/api/views/9gib-7p8x/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-In the November 4, 2014 election, only candidates for the Board of Supervisors who have been certified as eligible to receive public funds are bound by an Individual Expenditure Ceiling (IEC). Each publicly financed candidate's IEC begins at $250,000 and may be raised in increments of $10,000.
+This table provides information about the Individual Expenditure Ceilings (IEC) for Board of Supervisors and Mayoral candidates. Only candidates who have been certified as eligible to receive public funds are bound by an Individual Expenditure Ceiling (IEC). Each publicly financed BOS candidate's IEC begins at $250,000 and may be raised in increments of $50,000. Each publicly financed Mayoral candidate's IEC begins at $1,475,000 and may be raised in increments of $250,000.
