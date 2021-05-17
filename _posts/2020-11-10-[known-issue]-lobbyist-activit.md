@@ -1,19 +1,18 @@
 ---
-title: '[Known Issue] Lobbyist Activity - Payments Promised By Clients'
-created: '2020-11-10T16:56:53.110787'
-modified: '2020-11-10T16:56:53.110794'
+title: '[Known Issue] Lobbyist Activity - Contacts of Public Officials'
+created: '2020-11-10T16:56:37.553215'
+modified: '2020-11-10T16:56:37.553226'
 state: active
 type: dataset
 tags:
-  - Clients
+  - Contacts
   - Ethics
   - Lobbyist
-  - Payments
-  - Promised
+  - Public Official
 groups:
   - Local Government
-csv_url: 'https://data.sfgov.org/api/views/s2fy-y3my/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.sfgov.org/api/views/s2fy-y3my/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.sfgov.org/api/views/hr5m-xnxc/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.sfgov.org/api/views/hr5m-xnxc/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
@@ -23,4 +22,4 @@ layout: post
 
 +++++++++
 
-The amount of economic consideration received or expected by the lobbyist or the lobbyist's employer from each client during the reporting period.Promised payments are disclosed by lobbyists registered with the Ethics Commission on a monthly basis.  This dataset updates automatically every night.
+The name of each officer of the City and County of San Francisco with whom a lobbyist made a contact.  Contacts of public officials are disclosed by lobbyists registered with the Ethics Commission on a monthly basis.  This dataset updates automatically every night.
