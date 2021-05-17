@@ -1,20 +1,19 @@
 ---
-title: SF Development Pipeline 2013 Q1
-created: '2020-11-10T16:56:22.082336'
-modified: '2020-11-10T16:56:22.082347'
+title: SF Development Pipeline 2013 Q4
+created: '2020-11-10T16:56:29.683686'
+modified: '2020-11-10T16:56:29.683693'
 state: active
 type: dataset
 tags:
-  - Commercial
+  - Construction
   - Development
   - Housing
   - Pipeline
-  - Real Estate
 groups:
   - Local Government
-csv_url: 'https://data.sfgov.org/api/views/bime-puj8/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.sfgov.org/api/views/bime-puj8/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.sfgov.org/api/views/ep85-j8df/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.sfgov.org/api/views/ep85-j8df/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Snapshot of San Francisco Development Pipeline. Tracking of construction and entitlement activity based on data from Dept of Building Inspection&#x27;s Permit Tracking and the Planning Department&#x27;s Case Tracking enterprise databases, processed quarterly.
+Snapshot of San Francisco Development Pipeline. Tracking of construction and entitlement activity based on data from Dept of Building Inspection's Permit Tracking and the Planning Department's Case Tracking enterprise databases, processed quarterly.
