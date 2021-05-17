@@ -1,23 +1,17 @@
 ---
-title: SF Development Pipeline 2019 Q4
-created: '2020-11-10T16:56:48.789879'
-modified: '2020-11-10T16:56:48.789891'
+title: SF Development Pipeline 2019 Q2
+created: '2020-11-10T16:56:06.634033'
+modified: '2020-11-10T16:56:06.634040'
 state: active
 type: dataset
 tags:
-  - Building
-  - Commercial
-  - Construction
-  - Development
-  - Housing
-  - Permits
-  - Pipeline
-  - Planning
-  - Residential
+  - >-
+    Planning Pipeline Housing Construction Permits Development Residential
+    Commercial Building
 groups:
   - Local Government
-csv_url: 'https://data.sfgov.org/api/views/pm3p-32gh/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.sfgov.org/api/views/pm3p-32gh/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.sfgov.org/api/views/33nh-56zb/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.sfgov.org/api/views/33nh-56zb/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
