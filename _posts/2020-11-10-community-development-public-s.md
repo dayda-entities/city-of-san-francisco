@@ -1,14 +1,14 @@
 ---
-title: Community Development Public Service Program Activities by Neighborhood
-created: '2020-11-10T16:56:42.515945'
-modified: '2020-11-10T16:56:42.515956'
+title: Community Development Public Service Program Activities by Supervisor District
+created: '2020-11-10T16:56:07.014768'
+modified: '2020-11-10T16:56:07.014775'
 state: active
 type: dataset
 tags: []
 groups:
   - Local Government
-csv_url: 'https://data.sfgov.org/api/views/jy5g-rugu/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.sfgov.org/api/views/jy5g-rugu/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.sfgov.org/api/views/3ggv-tzb3/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.sfgov.org/api/views/3ggv-tzb3/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
