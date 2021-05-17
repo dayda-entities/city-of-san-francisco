@@ -1,14 +1,19 @@
 ---
-title: SF Development Pipeline 2012 Q1
-created: '2020-11-10T16:57:00.618356'
-modified: '2020-11-10T16:57:00.618367'
+title: SF Development Pipeline 2012 Q2
+created: '2020-11-10T16:56:58.558109'
+modified: '2020-11-10T16:56:58.558119'
 state: active
 type: dataset
-tags: []
+tags:
+  - Commercial
+  - Development
+  - Growth
+  - Housing
+  - Pipeline
 groups:
   - Local Government
-csv_url: 'https://data.sfgov.org/api/views/v5p2-emnu/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.sfgov.org/api/views/v5p2-emnu/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.sfgov.org/api/views/ugxk-ztb8/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.sfgov.org/api/views/ugxk-ztb8/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
