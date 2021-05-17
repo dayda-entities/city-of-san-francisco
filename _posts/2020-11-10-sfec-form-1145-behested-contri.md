@@ -1,16 +1,16 @@
 ---
 title: >-
   SFEC Form 114.5 - Behested Contributions Received by Certain Committees -
-  Contributions
-created: '2020-11-10T16:56:45.040008'
-modified: '2020-11-10T16:56:45.040015'
+  Filings
+created: '2020-11-10T16:56:38.378372'
+modified: '2020-11-10T16:56:38.378384'
 state: active
 type: dataset
 tags: []
 groups:
   - Local Government
-csv_url: 'https://data.sfgov.org/api/views/mq45-f9zi/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.sfgov.org/api/views/mq45-f9zi/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.sfgov.org/api/views/hyuc-khdi/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.sfgov.org/api/views/hyuc-khdi/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
@@ -18,4 +18,4 @@ Under San Francisco Campaign & Governmental Conduct Code Section 1.114.5(b)(2), 
 
 The committee must file Form 114.5 no later than the deadline to file the semi-annual or pre-election campaign statement that must report the contribution that makes the cumulative total $5,000 or more. For more information visit www.sfethics.org.
 
-Each row in this dataset represents a contribution reported in the Itemized Contributions sub-table of a Form 114.5 filed with the Ethics Commission. The parent filing and form data is available in a separate dataset: "SFEC Form 114.5 - Behested Contributions Received by Certain Committees - Filings" at <a href="https://data.sfgov.org/City-Management-and-Ethics/SFEC-Form-114-5-Behested-Contributions-Received-by/hyuc-khdi">https://data.sfgov.org/City-Management-and-Ethics/SFEC-Form-114-5-Behested-Contributions-Received-by/hyuc-khdi</a>. <a href="https://sfethics.org/disclosures/how-to-join-disclosure-datasets-using-microsoft-excel">Join this dataset with the sub-table using the DocuSignID</a>.
+Each row on this table represents the contents of a Form 114.5 filed with the Ethics Commission. There is one sub-tables of information on Form 114.5: Itemized Contributions. The sub-table is available in a separate dataset: "SFEC Form 114.5 - Behested Contributions Received by Certain Committees - Contributions" at <a href="https://data.sfgov.org/City-Management-and-Ethics/SFEC-Form-114-5-Behested-Contributions-Received-by/mq45-f9zi">https://data.sfgov.org/City-Management-and-Ethics/SFEC-Form-114-5-Behested-Contributions-Received-by/mq45-f9zi</a>. <a href="https://sfethics.org/disclosures/how-to-join-disclosure-datasets-using-microsoft-excel">Join this dataset with the sub-table using the DocuSignID</a>.
