@@ -1,18 +1,18 @@
 ---
-title: '[Known Issue] Lobbyist Activity - Contacts of Public Officials'
-created: '2020-11-10T16:56:37.553215'
-modified: '2020-11-10T16:56:37.553226'
+title: '[Known Issue] Lobbyist Activity - Activity Expenses'
+created: '2020-11-10T16:56:52.814584'
+modified: '2020-11-10T16:56:52.814591'
 state: active
 type: dataset
 tags:
-  - Contacts
+  - Activity
   - Ethics
+  - Expense
   - Lobbyist
-  - Public Official
 groups:
   - Local Government
-csv_url: 'https://data.sfgov.org/api/views/hr5m-xnxc/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.sfgov.org/api/views/hr5m-xnxc/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.sfgov.org/api/views/rvdt-bv57/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.sfgov.org/api/views/rvdt-bv57/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
@@ -22,4 +22,4 @@ layout: post
 
 +++++++++
 
-The name of each officer of the City and County of San Francisco with whom a lobbyist made a contact.  Contacts of public officials are disclosed by lobbyists registered with the Ethics Commission on a monthly basis.  This dataset updates automatically every night.
+"Activity expenses" means any expense incurred or payment made by a lobbyist or a lobbyist's client at the behest of the lobbyist, or arranged by a lobbyist or a lobbyist's client at the behest of the lobbyist, which benefits in whole or in part any: officer of the City and County; candidate for City and County office; aide to a member of the Board of Supervisors; or member of the immediate family or the registered domestic partner of an officer, candidate, or aide to a member of the Board of Supervisors. An expense or payment is not an "activity expense" unless it is incurred or made within three months of a contact with the officer, candidate, or Supervisor's aide who benefits from the expense or payment, or whose immediate family member or registered domestic partner benefits from the expense or payment. "Activity expenses" include honoraria, consulting fees, salaries, and any other thing of value totaling more than $25 in value in a consecutive three-month period, but do not include political contributions.Activity expenses are disclosed by lobbyists registered with the Ethics Commission on a monthly basis.  This dataset updates automatically every night.
