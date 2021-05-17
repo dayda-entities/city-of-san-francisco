@@ -1,15 +1,20 @@
 ---
-title: Zoning Map - Special Sign Districts - Scenic Streets
-created: '2020-11-10T16:56:09.765761'
-modified: '2020-12-04T19:32:23.777521'
+title: Zoning Map - Special Sign Districts
+created: '2020-11-10T16:56:33.987466'
+modified: '2020-12-04T19:33:51.401136'
 state: active
 type: dataset
-tags: []
+tags:
+  - District
+  - Planning
+  - Sign
+  - Ssd
+  - Zoning
 groups:
   - Local Government
-csv_url: 'https://data.sfgov.org/api/views/4n3c-huha/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.sfgov.org/api/views/4n3c-huha/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.sfgov.org/api/views/g9f8-pkcz/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.sfgov.org/api/views/g9f8-pkcz/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-The Special Sign Districts are a component of the Zoning Map which in turn is a key component of the San Francisco Planning Code. The Zoning Map comprises: - Zoning Districts - Height and Bulk Districts - Special Use Districts - Preservation Districts - Coastal Zone Area - Special Sign Districts The official Zoning Map can be found in the San Francisco Planning Code: http://planningcode.sfplanning.org (click on the links under ZONING MAPS on the left navigation column).
+The Special Sign Districts are a component of the Zoning Map which in turn is a key component of the San Francisco Planning Code.
