@@ -1,20 +1,19 @@
 ---
-title: '[Known Issue] Lobbyist Activity - Political Contributions'
-created: '2020-11-10T16:56:53.491827'
-modified: '2020-11-10T16:56:53.491837'
+title: '[Known Issue] Lobbyist Activity - Payments Promised By Clients'
+created: '2020-11-10T16:56:53.110787'
+modified: '2020-11-10T16:56:53.110794'
 state: active
 type: dataset
 tags:
-  - Ballot Measure
-  - Candidate
-  - Committee
-  - Contribution
+  - Clients
   - Ethics
   - Lobbyist
+  - Payments
+  - Promised
 groups:
   - Local Government
-csv_url: 'https://data.sfgov.org/api/views/sa8r-purn/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.sfgov.org/api/views/sa8r-purn/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.sfgov.org/api/views/s2fy-y3my/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.sfgov.org/api/views/s2fy-y3my/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
@@ -24,4 +23,4 @@ layout: post
 
 +++++++++
 
-All political contributions of $100 or more made or delivered by the lobbyist or the lobbyist's employer, or made by a client at the behest of the lobbyist or the lobbyist's employer during the reporting period to an officer of the City and County, a candidate for such office, a committee controlled by such officer or candidate, or a committee primarily formed to support or oppose such officer or candidate, or any committee primarily formed to support or oppose a ballot measure to be voted on only in San Francisco. This includes political contributions arranged by the lobbyist, or for which the lobbyist acted as an agent or intermediary.Political contributions are disclosed by lobbyists registered with the Ethics Commission on a monthly basis.  This dataset updates automatically every night.
+The amount of economic consideration received or expected by the lobbyist or the lobbyist's employer from each client during the reporting period.Promised payments are disclosed by lobbyists registered with the Ethics Commission on a monthly basis.  This dataset updates automatically every night.
