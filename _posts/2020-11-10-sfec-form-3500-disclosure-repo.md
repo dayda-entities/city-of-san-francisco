@@ -1,0 +1,17 @@
+---
+title: >-
+  SFEC Form 3500 - Disclosure Report for Developers of Major City Projects
+  Filings
+created: '2020-11-10T16:56:17.179713'
+modified: '2020-11-10T16:56:17.179722'
+state: active
+type: dataset
+tags: []
+groups:
+  - Local Government
+csv_url: 'https://data.sfgov.org/api/views/8je3-gv3q/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.sfgov.org/api/views/8je3-gv3q/rows.json?accessType=DOWNLOAD'
+layout: post
+
+---
+Effective July 26, 2014, City law impose reporting requirements on developers of certain City real estate projects with an estimated construction cost of more than $1,000,000. Developers must file five forms with the Ethics Commission over the course of about a year disclosing donations to nonprofit organizations that have contacted City officials about their project. The first form is due within 30 days of certification of an Environmental Impact Report ("EIR") by a local agency or, if the project relies on a program EIR, within 30 days of the adoption of a final environmental determination under the California Environmental Quality Act. Disclosure is not required for a residential development project with four or fewer dwelling units. A disclosure report must be completed and filed by the developer of any "major project." A major project is a real estate development project located in the City and County of San Francisco with estimated construction costs exceeding $1,000,000 where either: The Planning Commission or any other local lead agency certifies an Environmental Impact Review ("EIR") for the project under the California Environmental Quality Act ("CEQA"); or The project relies on a program EIR and the Planning Department, Planning Commission, or any other local lead agency adopts any final environmental determination under CEQA. (See below to determine when a final environmental determination is adopted.)A major project does not include a residential development project with four or fewer dwelling units. For purposes of this filing requirement, a "developer" includes the individual or entity that is the project sponsor responsible for filing a completed Environmental Evaluation Application ("EEA") with the Planning Department (or other lead agency) under CEQA. However, if an individual who signs and submits the EEA will not be responsible for obtaining the entitlements or developing the major project, the developer is instead the individual or entity that is responsible for obtaining such entitlements. A developer must use the SFEC 3500 form to file a total of five reports with the Ethics Commission with respect to each major project. The first (or initial) report must be filed within 30 days of the date the Planning Commission or any other local lead agency certifies the EIR for that project or, for a major project relying on a program EIR, within 30 days of the date that the Planning Department, Planning Commission, or any other local lead agency adopts a final environmental determination under CEQA. The developer must also use this form to file four subsequent quarterly reports, beginning with the quarter in which in the initial report is filed. The due dates for the quarterly reports are: April 15 for the period starting January 1 and ending March 31; July 15 for the period starting April 1 and ending June 30;October 15 for the period starting July 1 and ending September 30; and January 15 for the period starting October 1 and ending December 31.
