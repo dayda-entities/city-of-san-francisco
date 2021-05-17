@@ -1,15 +1,17 @@
 ---
-title: Department of Building Inspection Complaints (All Divisions)
-created: '2020-11-10T16:56:34.625743'
-modified: '2020-12-04T19:33:51.780379'
+title: Department of Building Inspection Permit Addenda with Routing
+created: '2020-11-10T16:56:16.600318'
+modified: '2020-12-04T19:32:54.751711'
 state: active
 type: dataset
-tags: []
+tags:
+  - Permit
+  - Permits
 groups:
   - Local Government
-csv_url: 'https://data.sfgov.org/api/views/gm2e-bten/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.sfgov.org/api/views/gm2e-bten/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.sfgov.org/api/views/87xy-gk8d/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.sfgov.org/api/views/87xy-gk8d/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-These are complaints from Housing, Building, Electrical, Plumbing, and Code Enforcement divisions within the Department of Building Inspection. Routine and non-routine inspections from the housing division are tracked using complaints only if violations are found during the inspections. The NOVTYPE field can be used to determine the source of the complaint.
+Construction work at a building site is controlled and scheduled through the permit process by the submission and approval of a series of segmented phased construction plans identified as addenda. Addenda are routed and approved at a set of stations that vary based on the content of the plans being submitted for approval. The number of addenda submitted per permit will vary based on the type and complexity of the project. This dataset contains a row for each step for one or many addenda associated with a permit application. These records can be tied to the building permit dataset at https://data.sfgov.org/d/i98e-djp9 by application number.
