@@ -10,7 +10,7 @@ source_contact_type: general
 source_phone: +1 555-555-5555
 source_email: info@example.com
 source_catalog: data.gov
-profile_pic: 'https://everykitcounts.org/wp-content/uploads/2014/10/461.jpg'
+profile_pic: 'https://directory.dayda.org/assets/img/entities/city-of-san-francisco.png'
 favicon: /assets/img/favicon.png
 url: 'http://city-of-san-francisco.dayda.org'
 encoding: utf-8
